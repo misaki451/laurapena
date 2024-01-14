@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on programming projects
-- 📫 How to reach me misaki5865
+- 📫 How to reach me lpena087@fiu.edu
 
 <!---
 misaki451/misaki451 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
