@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @misaki451
+- 👋 Hi, I’m @LauraPena
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on programming projects
